@@ -4,7 +4,7 @@
 
 In March 2018 **Liam Barnes and Daniel Wainwright** reported that almost half of drivers who challenged parking and bus lane fines issued by local authorities were successful.
 
-The story was based on figures released under the Freedom of Information Act sent to every British local authority and the Northern Ireland Department for Infrastructure, which revealed that out of almost 4.3 million appeals, 1.8 million succeeded.
+The story was based on figures released under the Freedom of Information Act, in response to an [FOI request sent to every British local authority and the Northern Ireland Department for Infrastructure](https://github.com/BBC-Data-Unit/parking-fines/blob/master/foirequest.md), which revealed that out of almost 4.3 million appeals, 1.8 million succeeded.
 
 ## Get the data
 
@@ -25,6 +25,10 @@ The story was based on figures released under the Freedom of Information Act sen
 ## Visualisation
 
 * Bar chart: Councils scrapping the most penalty charge notices
+
+## Other material
+
+* [FOI request text](https://github.com/BBC-Data-Unit/parking-fines/blob/master/foirequest.md)
 
 
 
